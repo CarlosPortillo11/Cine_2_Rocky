@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Exo');
+@import url('https://fonts.googleapis.com/css?family=Convergence');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+.fondo{
+  background: black;
+}
+
+
+.titulo{
+  width: 90%;
+  background: rgba(0, 0, 0, 0.6);
+  height: 175px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 150px;
+  padding: 15px 0;
+}
+
+.card-img-top{
+  max-width: 700px;
+}
+
+#carousel{
+  border-radius: 5px;
+}
+
+.datos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Exo', sans-serif;
+  font-size: 95px;
+  font-weight: bolder;
+  color: white;
+}
+
+.card{
+  margin-bottom: 15px;
+}
+
+.card-body1{
+  height: 335px;
+}
+
+.card-text{
+  text-align: center;
+  font-family: 'Convergence', sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+.card-text1{
+  text-align: center;
+  font-family: 'Convergence', sans-serif;
+  font-size: 22px;
+  color: white;
+  padding: 58px;
+}
+
+
+.saga{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Exo', sans-serif;
+  font-size: 95px;
+  font-weight: bolder;
+  color: white;
+}
+
+
+#carousel2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h5 p{
+  color: black;
+}
+
+.reparto{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Exo', sans-serif;
+  font-size: 95px;
+  font-weight: bolder;
+  color: white;
+}
+
+#cast{
+  border-radius: 10px;
+}
+
+.card-body{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.card-img{
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.card-title{
+  font-family: 'Oswald', sans-serif;
+  font-size: 26px;
+  color: white;
+}
+
+#footer{
+	padding: 50px;
+	text-align: center;
+}
+
+#boton{
+  font-family: 'Exo', sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+}
